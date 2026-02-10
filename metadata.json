@@ -1,0 +1,5 @@
+{
+  "name": "Dummy prescription",
+  "description": "A high-fidelity synthetic medical data generator for testing Mirth Connect and healthcare systems. Generates realistic prescriptions for any medical condition globally.",
+  "requestFramePermissions": []
+}
